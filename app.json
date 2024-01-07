@@ -56,7 +56,7 @@
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "True",
+      "value": "false",
       "required": false
     }
   },
